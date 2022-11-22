@@ -1,0 +1,18 @@
+1. read unity information (global variable)  rotation translation (position)
+
+1.5  connect 1 to 2
+
+2. portal from unity to python
+
+3. data analysis 
+
+4. choose 3 functions
+
+5. build in hololens2
+
+
+
+  #3 functions of 3d slicer
+1. find distance between two points
+2. select cutting region of interest/ 2d points of interest
+3. find angle between points
